@@ -14,4 +14,8 @@ Here are the component used on this project:
 - 1 Infrared
 - 8 LED Sensor as Line follower
 
+## Transporter Implementation
 ![Final Implementation](https://github.com/muhardianab/Mini-Transporter/blob/main/Transporter_Implementation_Final.jpg?raw=true)
+
+## Transporter Design
+![Final Design](https://github.com/muhardianab/Mini-Transporter/blob/main/Transporter%20Design.png?raw=true)
