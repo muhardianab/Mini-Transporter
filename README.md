@@ -11,6 +11,7 @@ Here are the component used on this project:
 - Driver Motor TB6612FNG
 - 3 Servo Motor
 - DC-DC Converter
+- Baterry LiPo
 - 2 Ultrasonic
 - 1 Infrared
 - 8 LED Sensor as Line follower
